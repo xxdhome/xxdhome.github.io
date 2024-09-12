@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xuedou Xiao (肖雪豆) joined the School of Navigation at Wuhan University of Technology (WUT) as a postdoctoral researcher in 2023, after earning her Ph.D. and M.Phil. degrees from the School of Electronic Information and Communication at Huazhong University of Science and Technology (HUST) in 2017 and 2023, respectively.
+Xuedou Xiao (肖雪豆) joined the School of Navigation, Wuhan University of Technology (WUT) as a postdoctoral researcher in 2023, after earning her Ph.D. and M.Phil. degrees from the School of Electronic Information and Communication, Huazhong University of Science and Technology (HUST) in 2017 and 2023, respectively.
 
 Email: xuedouxiao@whut.edu.cn
 
